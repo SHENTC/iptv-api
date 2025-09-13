@@ -1,3 +1,3 @@
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7482 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://120.76.248.139/live/bfgd/4200000061.m3u8, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 阿里云BGP数据中心, Date: None, Delay: 10992 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://home.yulei.online:9999/rtp/226.0.2.156:9160, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 730 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7497 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://home.yulei.online:9999/rtp/226.0.2.156:9160, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 876 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10752 ms, Speed: 0.13 M/s, Resolution: None
