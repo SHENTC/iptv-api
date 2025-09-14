@@ -1,2 +1,14 @@
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7582 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://home.yulei.online:9999/rtp/226.0.2.156:9160, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 603 ms, Speed: 0.65 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7569 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://124.165.251.82:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 联通, Date: None, Delay: 10768 ms, Speed: 0.03 M/s, Resolution: None
+Name: CCTV-8, URL: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 联通, Date: None, Delay: 10781 ms, Speed: 0.03 M/s, Resolution: None
+Name: CCTV-3, URL: http://124.165.251.82:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 联通, Date: None, Delay: 10795 ms, Speed: 0.05 M/s, Resolution: None
+Name: CCTV-4, URL: http://home.yulei.online:9999/rtp/226.0.2.156:9160, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 780 ms, Speed: 0.14 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-安徽-阜阳, ISP: 联通, Date: None, Delay: 10970 ms, Speed: 0.02 M/s, Resolution: None
+Name: CCTV-6, URL: http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-安徽-阜阳, ISP: 联通, Date: None, Delay: 10964 ms, Speed: 0.02 M/s, Resolution: None
+Name: CCTV-5, URL: http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-安徽-阜阳, ISP: 联通, Date: None, Delay: 10972 ms, Speed: 0.03 M/s, Resolution: None
+Name: CCTV-9, URL: http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-安徽-阜阳, ISP: 联通, Date: None, Delay: 10966 ms, Speed: 0.03 M/s, Resolution: None
+Name: CCTV-3, URL: http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-安徽-阜阳, ISP: 联通, Date: None, Delay: 10962 ms, Speed: 0.06 M/s, Resolution: None
+Name: CCTV-10, URL: http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-安徽-阜阳, ISP: 联通, Date: None, Delay: 10826 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-12, URL: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-山西-吕梁, ISP: 联通, Date: None, Delay: 10375 ms, Speed: 0.05 M/s, Resolution: None
+Name: CETV-2, URL: http://113.195.7.46:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-江西-九江, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-14, URL: http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-安徽-阜阳, ISP: 联通, Date: None, Delay: 10358 ms, Speed: 0.19 M/s, Resolution: None
