@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-21 18:13:06,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-22 06:12:25,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道，#genre#,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
-CCTV-9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
