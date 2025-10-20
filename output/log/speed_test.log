@@ -1,5 +1,6 @@
-Name: CCTV-13, URL: http://106.53.99.30/tv/cctv13.php, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: 2684 ms, Speed: 1.23 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7416 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1430 ms, Speed: 0.01 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://117.174.25.254:8188/rtp/239.0.0.51:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 移动, Date: None, Delay: 441 ms, Speed: 0.84 M/s, Resolution: 1920x1080
-Name: CETV-4, URL: http://117.174.25.254:8188/rtp/239.0.0.98:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 移动, Date: None, Delay: 440 ms, Speed: 0.84 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://106.53.99.30/tv/cctv13.php, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 腾讯云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CETV-4, URL: http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761096126-f844a8cecb8c82b57452285d0ecbce88-0-187281c58f52c70d54638388a7d8e5fc, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 2561 ms, Speed: 1.01 M/s, Resolution: 720x576
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7452 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CETV-4, URL: http://117.174.25.254:8188/rtp/239.0.0.98:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 移动, Date: None, Delay: 426 ms, Speed: 0.88 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://117.174.25.254:8188/rtp/239.0.0.51:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 移动, Date: None, Delay: 426 ms, Speed: 0.87 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1509 ms, Speed: 0.02 M/s, Resolution: 1920x1080
