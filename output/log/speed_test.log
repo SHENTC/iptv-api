@@ -1,9 +1,4 @@
-Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7324 ms, Speed: 0.33 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://sh.lnott.top:880/dx04.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10946 ms, Speed: 0.29 M/s, Resolution: 1920x1080
-Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1233 ms, Speed: 0.02 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://113.106.171.234:8899/rtp/239.20.0.236:2270, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 504 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: CCTV-12, URL: http://xtvantsc.xyz/Smart.php?id=cctv12, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-11, URL: http://xtvantsc.xyz/Smart.php?id=cctv11, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://xtvantsc.xyz/Smart.php?id=cctv2, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: http://xtvantsc.xyz/Smart.php?id=cctv6, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 514 ms, Speed: 0.08 M/s, Resolution: None
+Name: CCTV-4, URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8, IPv_Type: ipv4, Location: 英国, ISP: , Date: None, Delay: 7555 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 1100 ms, Speed: 0.03 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://113.106.171.234:8899/rtp/239.20.0.236:2270, IPv_Type: ipv4, Location: 中国-广东-惠州, ISP: 电信, Date: None, Delay: 458 ms, Speed: 0.28 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 495 ms, Speed: 0.19 M/s, Resolution: None
