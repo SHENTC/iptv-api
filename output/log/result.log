@@ -409,7 +409,6 @@ Name: CCTV-17, URL: https://jzb.wwkejishe.top/?id=594, IPv_Type: ipv6, Location:
 Name: CCTV-17, URL: https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: https://shyd.695847.xyz/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: https://live.chinacert.cftest5.cn/mg/?id=673168256, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-17, URL: http://zqh2333.top:2222/rtp/239.93.24.92:5140, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 921 ms, Speed: 0.01 M/s, Resolution: 1920x1080
 Name: CETV-1, URL: http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-1, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-1, URL: http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -431,7 +430,7 @@ Name: CETV-1, URL: http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/
 Name: CETV-1, URL: https://shyd.695847.xyz/cms001/ch00000090990000001100/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-1, URL: https://iptv.catvod.com/live.php?id=CETV1, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-1, URL: http://iptv.666230.xyz/iptv/sxg.php/CETV-1H264_4000, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CETV-1, URL: http://183.184.47.145:8001/rtp/226.0.2.181:9360, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 404 ms, Speed: 0.07 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://183.184.47.145:8001/rtp/226.0.2.181:9360, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 498 ms, Speed: 0.35 M/s, Resolution: 1920x1080
 Name: CETV-2, URL: http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-2, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-2, URL: http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
