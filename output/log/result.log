@@ -69,7 +69,7 @@ Name: CCTV-3, URL: https://jzb.wwkejishe.top/?id=580, IPv_Type: ipv6, Location: 
 Name: CCTV-3, URL: https://iptv.catvod.com/live.php?id=CCTV3%E7%BB%BC%E8%89%BA, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: https://shyd.695847.xyz/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: https://live.chinacert.cftest5.cn/mg/?id=624878271, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 532 ms, Speed: 7.63 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 277 ms, Speed: 14.97 M/s, Resolution: 1920x1080
 Name: CCTV-4, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: http://z.b.bkpcp.top/m.php?id=CCTV-4国际, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: http://k.061899.xyz/m.php?id=cctv4, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -93,7 +93,8 @@ Name: CCTV-4, URL: https://shyd.695847.xyz/cms001/ch00000090990000001221/index.m
 Name: CCTV-4, URL: https://live.chinacert.cftest5.cn/mg/?id=631780421, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv4, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: https://stream1.freetv.fun/964a51445ff33a4d13e786b28b01992fa55022cfc28c81c5f24497d1131a5d18.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 377 ms, Speed: 0.98 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 294 ms, Speed: 13.49 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 433 ms, Speed: 0.95 M/s, Resolution: 1920x1080
 Name: CCTV-5, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903, IPv_Type: ipv6, Location: 美国, ISP: Oracle Corporation, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -120,7 +121,7 @@ Name: CCTV-5, URL: https://jzb.wwkejishe.top/?id=582, IPv_Type: ipv6, Location: 
 Name: CCTV-5, URL: https://iptv.catvod.com/live.php?id=CCTV5%E4%BD%93%E8%82%B2, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: https://shyd.695847.xyz/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: https://live.chinacert.cftest5.cn/mg/?id=641886683, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 509 ms, Speed: 6.62 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 272 ms, Speed: 14.59 M/s, Resolution: 1920x1080
 Name: CCTV-5+, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+, URL: https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2, IPv_Type: ipv6, Location: 美国, ISP: Oracle Corporation, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5+, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -169,7 +170,7 @@ Name: CCTV-6, URL: https://iptv.catvod.com/live.php?id=CCTV6%E7%94%B5%E5%BD%B1, 
 Name: CCTV-6, URL: https://shyd.695847.xyz/cms001/ch00000090990000001188/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: https://live.chinacert.cftest5.cn/mg/?id=624878396, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 555 ms, Speed: 7.64 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 297 ms, Speed: 14.37 M/s, Resolution: 1920x1080
 Name: CCTV-7, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://goo.bkpcp.top/mg/CCTV7, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://k.061899.xyz/m.php?id=cctv7, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -192,7 +193,7 @@ Name: CCTV-7, URL: https://iptv.catvod.com/live.php?id=CCTV7%E5%9B%BD%E9%98%B2%E
 Name: CCTV-7, URL: https://shyd.695847.xyz/cms001/ch00000090990000001236/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: https://live.chinacert.cftest5.cn/mg/?id=673168121, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-7, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 575 ms, Speed: 7.02 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 261 ms, Speed: 13.83 M/s, Resolution: 1920x1080
 Name: CCTV-8, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://goo.bkpcp.top/mg/cctv8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://k.061899.xyz/m.php?id=cctv8, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -257,7 +258,7 @@ Name: CCTV-10, URL: https://jzb.wwkejishe.top/?id=588, IPv_Type: ipv6, Location:
 Name: CCTV-10, URL: https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10, URL: https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-10, URL: https://live.chinacert.cftest5.cn/mg/?id=624878405, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-10, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 552 ms, Speed: 6.07 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 250 ms, Speed: 13.49 M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11, URL: http://k.061899.xyz/m.php?id=cctv11, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-11, URL: http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227171/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -303,7 +304,6 @@ Name: CCTV-12, URL: https://epg.pw/stream/aedb71e61961cd2a5a5b9a8a83b8ae489c9408
 Name: CCTV-12, URL: https://iptv.catvod.com/live.php?id=CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12, URL: https://shyd.695847.xyz/cms001/ch00000090990000001239/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-12, URL: https://live.chinacert.cftest5.cn/mg/?id=673168185, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-12, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-12HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 51 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://z.b.bkpcp.top/m.php?id=cctv13, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://j.x.bkpcp.top/jx/CCTV13HD, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -331,8 +331,7 @@ Name: CCTV-13, URL: https://shyd.695847.xyz/cms001/ch00000090990000001328/index.
 Name: CCTV-13, URL: https://live.chinacert.cftest5.cn/mg/?id=608807423, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: https://cdn3.163189.xyz/163189/cctv13, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-13, URL: http://www.freetv.top/migu/608807423.m3u8?migutoken=d8e7d5104925c13570533f5db2f808b4613be4d2901d3d406a67fca92ee219bc3692dff97d63d38123fde519465b77404b0a2c0c59bec5e83ad2be42019845acc7e59290159021d585352689cc, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 1418 ms, Speed: 0.40 M/s, Resolution: None
-Name: CCTV-13, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-13HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 49 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-13, URL: http://144.255.32.94:8288/rtp/239.21.2.3:5002, IPv_Type: ipv4, Location: 中国-山东, ISP: 电信, Date: None, Delay: 452 ms, Speed: 0.79 M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-14, URL: http://k.061899.xyz/m.php?id=cctv14, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -381,7 +380,7 @@ Name: CCTV-15, URL: https://jzb.wwkejishe.top/?id=593, IPv_Type: ipv6, Location:
 Name: CCTV-15, URL: https://iptv.catvod.com/live.php?id=CCTV15%E9%9F%B3%E4%B9%90, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15, URL: https://shyd.695847.xyz/cms001/ch00000090990000001338/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15, URL: https://live.chinacert.cftest5.cn/mg/?id=673168223, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-15, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 514 ms, Speed: 6.58 M/s, Resolution: 1920x1080
+Name: CCTV-15, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 254 ms, Speed: 13.41 M/s, Resolution: 1920x1080
 Name: CCTV-16, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16, URL: http://k.061899.xyz/m.php?id=cctv16, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16, URL: https://hls-gateway.vpstv.net/streams/709089.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -402,6 +401,7 @@ Name: CCTV-16, URL: https://mursor.ottiptv.cc/mst/cctv16.m3u8, IPv_Type: ipv6, L
 Name: CCTV-16, URL: http://yc.myds.me:35455/gaoma/cctv16.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16, URL: https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-16, URL: https://iptv.catvod.com/live.php?id=CCTV16, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-16, URL: http://dms.yryyj.site:8188/udp/239.76.246.98:1234, IPv_Type: ipv4, Location: 中国-湖南-长沙, ISP: 电信, Date: None, Delay: 459 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: http://k.061899.xyz/m.php?id=cctv17, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -428,7 +428,7 @@ Name: CCTV-17, URL: https://shyd.695847.xyz/cms001/ch00000090990000001241/index.
 Name: CCTV-17, URL: https://live.chinacert.cftest5.cn/mg/?id=673168256, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e38326199e2ee0a1b7bd0b0dd192935d111a196fb0a283c3070537cce6951301b2cc3e6f7de31ffdb9b7c4095d6c008d8333e21e5070375ca86124640133c9fa4c6ffa847f, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-17, URL: http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-17, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 498 ms, Speed: 6.69 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 272 ms, Speed: 12.70 M/s, Resolution: 1920x1080
 Name: CETV-1, URL: http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-1, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-1, URL: http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -452,9 +452,9 @@ Name: CETV-1, URL: https://iptv.catvod.com/live.php?id=CETV1, IPv_Type: ipv6, Lo
 Name: CETV-1, URL: http://iptv.666230.xyz/iptv/sxg.php/CETV-1H264_4000, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-1, URL: http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221225775/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-1, URL: https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CETV-1, URL: http://116.237.37.244:8888/rtp/239.45.1.125:5140, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 432 ms, Speed: 0.05 M/s, Resolution: None
-Name: CETV-1, URL: http://171.83.103.119:9999/rtp/239.69.1.110:10298, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1080 ms, Speed: 0.02 M/s, Resolution: None
-Name: CETV-1, URL: http://171.125.90.120:6001/rtp/226.0.2.181:9360, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 451 ms, Speed: 0.01 M/s, Resolution: None
+Name: CETV-1, URL: http://116.237.37.244:8888/rtp/239.45.1.125:5140, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 460 ms, Speed: 0.03 M/s, Resolution: None
+Name: CETV-1, URL: http://171.83.103.119:9999/rtp/239.69.1.110:10298, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1518 ms, Speed: 0.03 M/s, Resolution: None
+Name: CETV-1, URL: http://171.125.90.120:6001/rtp/226.0.2.181:9360, IPv_Type: ipv4, Location: 中国-山西-忻州, ISP: 联通, Date: None, Delay: 1001 ms, Speed: 0.01 M/s, Resolution: None
 Name: CETV-2, URL: http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-2, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-2, URL: http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -498,5 +498,5 @@ Name: CETV-4, URL: http://iptv.666230.xyz/iptv/sxg.php/CETV-4H264_2000, IPv_Type
 Name: CETV-4, URL: http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226153/1.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-4, URL: https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CETV-4, URL: http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000012123/1.m3u8?channel-id=bestzb&Contentid=5000000006000012123&livemode=1&stbId=m, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CETV-4, URL: http://116.237.37.244:8888/rtp/239.45.1.243:5140, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 398 ms, Speed: 0.04 M/s, Resolution: None
-Name: CETV-4, URL: http://171.83.103.119:9999/rtp/239.69.2.29:11328, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1272 ms, Speed: 0.01 M/s, Resolution: None
+Name: CETV-4, URL: http://116.237.37.244:8888/rtp/239.45.1.243:5140, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: 457 ms, Speed: 0.04 M/s, Resolution: None
+Name: CETV-4, URL: http://171.83.103.119:9999/rtp/239.69.2.29:11328, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 486 ms, Speed: 0.04 M/s, Resolution: None
