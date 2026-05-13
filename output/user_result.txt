@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-13 06:52:30,http://192.151.150.154/live/cctv1hd.m3u8
+2026-05-13 20:07:11,http://192.151.150.154/live/cctv1hd.m3u8
 
 央视频道，#genre#,#genre#
 CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
@@ -32,6 +32,7 @@ CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227333/index.m3u
 CCTV-3,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3,https://stream1.freetv.fun/33711cece64c9077907fa3caea452361f539772402550ca53ae2c9b00a3211b3.m3u8
+CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 CCTV-4,http://k.061899.xyz/m.php?id=cctv4
@@ -41,7 +42,6 @@ CCTV-4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d
 CCTV-4,http://lu.wqwqwq.sbs/itv/1000000005000265004.m3u8?cdn=ystenlive
 CCTV-4,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-4,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
