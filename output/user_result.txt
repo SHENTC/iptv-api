@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-04 07:27:05,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-04 20:38:53,http://198.204.240.250:82/live/cctv1.m3u8
 
 央视频道，#genre#,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -113,17 +113,17 @@ CCTV-10,http://www.freetv.top/migu/624878405.m3u8?migutoken=994dc87ce4767211215b
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=e7e8abe9ae322869a93e8450014e08c5949217331c53007abb9f6eee64b06cc42f81828befee8b129005bcdebf805a1bbd19f0949e8329cf7ff4ab9379e930cfb8185ddf66c83b972ea6481e86
 CCTV-10,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
-CCTV-11,http://207.56.13.146:81/cdnlive/cctv11.m3u8
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
-CCTV-11,http://101.66.198.62:9901/tsfile/live/0011_1.m3u8
+CCTV-11,http://207.56.13.146:81/cdnlive/cctv11.m3u8
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV-11,http://k.061899.xyz/m.php?id=cctv11
 CCTV-11,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227171/index.m3u8
 CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
 CCTV-11,https://stream1.freetv.fun/522d8760b9c0e8172aefbf6b1aac7030daf6f613fabce8b1d00a15416ad0b052.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
+CCTV-11,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
+CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法
 CCTV-12,http://k.061899.xyz/m.php?id=cctv12
@@ -143,7 +143,6 @@ CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 CCTV-13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
-CCTV-14,http://101.66.198.62:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-14,http://k.061899.xyz/m.php?id=cctv14
@@ -152,6 +151,7 @@ CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 CCTV-14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0
+CCTV-14,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03
 CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
 CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
@@ -201,7 +201,7 @@ CETV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227329/index.m3u
 CETV-2,https://cc06.tv12.xyz/24.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-2,https://mgtv.ottiptv.cc/migu/923287211.m3u8?migutoken=0b404a5a511c0773131c057f614189007a386ab73cb0268ea86e7344f1ac29b600657e69950d86e67e4a71c2646a8c056713285a9d02b72f16adb10a5fa3163cc355b4e789d8c6611713b2f400
+CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=f9d76847d6b6d1789bc8551c3a96decd&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260604070155&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=39.98.70.128&SecurityKey=20260604070155&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4de55c140753308478e005d4b6c68fa4&ddCalcu=44advfea85a65acc61b440d7550303e08874&sv=10004&ct=android
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
@@ -217,4 +217,4 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
-CETV-4,https://mgtv.ottiptv.cc/migu/923287339.m3u8?migutoken=e0e1aa7cfc9885085dd017f24c6810da2deff46ab4a1798fc84915e7a1b73c12ee3778b7f77762bda1f086e373c2e322134f782e7c89008ac746158276c5aa186b6b750a19121ea075af58f588
+CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=3fa5ff28b43479701da944c3bbd97b4e&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260604070154&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=39.98.87.107&SecurityKey=20260604070154&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1ed9364f3a9897f4b7e2988242a257b9&ddCalcu=91bev7da59b23aa6244f238a899829e77fb4&sv=10004&ct=android
