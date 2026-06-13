@@ -1,12 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-13 19:48:19,http://183.223.157.33:9901/tsfile/live/0004_1.m3u8
+2026-06-14 06:54:22,http://198.204.228.26/live/cctv5p.m3u8
 
 央视频道，#genre#,#genre#
-CCTV-4,http://183.223.157.33:9901/tsfile/live/0004_1.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
-CCTV-5,http://183.223.157.33:9901/tsfile/live/0005_1.m3u8
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-CCTV-5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8
 CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=556ccb45c4511efcbc1ed351b4b5651a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
