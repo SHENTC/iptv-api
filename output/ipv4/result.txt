@@ -1,18 +1,29 @@
 🕘️更新时间,#genre#
-2026-07-11 06:51:21,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
+2026-07-11 18:55:51,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 
 央视频道，#genre#,#genre#
-CCTV-3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
+CCTV-3,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
+CCTV-4,http://115.48.161.108:9901/tsfile/live/0004_1.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
-CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-6,http://101.66.198.8:9901/tsfile/live/0006_1.m3u8
+CCTV-6,http://101.66.194.82:9901/tsfile/live/0006_1.m3u8
+CCTV-6,http://101.66.194.63:9901/tsfile/live/0006_1.m3u8
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
+CCTV-7,http://101.66.194.82:9901/tsfile/live/0007_1.m3u8
+CCTV-9,http://101.66.194.82:9901/tsfile/live/0009_1.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-10,http://drive.mxmy.net:8888/udp/239.3.1.63:8116
+CCTV-10,http://101.66.194.82:9901/tsfile/live/0010_1.m3u8
+CCTV-10,http://101.66.194.63:9901/tsfile/live/0010_1.m3u8
+CCTV-11,http://125.42.148.50:9901/tsfile/live/1010_1.m3u8
+CCTV-11,http://101.66.194.82:9901/tsfile/live/0011_1.m3u8
+CCTV-13,http://101.66.198.8:9901/tsfile/live/0013_1.m3u8
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
 CCTV-15,http://drive.mxmy.net:8888/udp/239.3.1.153:8136
+CCTV-15,http://101.66.194.63:9901/tsfile/live/0015_1.m3u8
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
