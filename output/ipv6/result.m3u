@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/SHENTC/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-14 19:18:44
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-15 06:46:50
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道，#genre#",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -400,7 +400,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="央视频道，#genre#",CETV-2
 http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="央视频道，#genre#",CETV-2
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=4afd930e30d7e17cf2607cec405c9db2&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260714062134&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=39.103.182.111&SecurityKey=20260714062134&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=127996a06f99b25bd8c0275ba0f0cfa5&ddCalcu=51a2vf7ac9a09af60aa0b65f79290bc285db&sv=10004&ct=android
+https://mgtv.ottiptv.cc/migu/923287211.m3u8?migutoken=0b404a5a511c0773131c057f614189007a386ab73cb0268ea86e7344f1ac29b600657e69950d86e67e4a71c2646a8c056713285a9d02b72f16adb10a5fa3163cc355b4e789d8c6611713b2f400
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="央视频道，#genre#",CETV-3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="央视频道，#genre#",CETV-3
@@ -432,4 +432,4 @@ http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="央视频道，#genre#",CETV-4
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="央视频道，#genre#",CETV-4
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=6e595f31197dcfa94df3db7e123af996&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260714062134&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=39.103.182.111&SecurityKey=20260714062134&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3869c6f26f22781c3af89352af8649c8&ddCalcu=83c8v96a49b6ca86ffa2265f329287f8a13c&sv=10004&ct=android
+https://mgtv.ottiptv.cc/migu/923287339.m3u8?migutoken=e0e1aa7cfc9885085dd017f24c6810da2deff46ab4a1798fc84915e7a1b73c12ee3778b7f77762bda1f086e373c2e322134f782e7c89008ac746158276c5aa186b6b750a19121ea075af58f588
