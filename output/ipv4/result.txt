@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-27 20:51:34,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
+2026-07-28 06:52:14,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 
 央视频道，#genre#,#genre#
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
@@ -8,18 +8,14 @@ CCTV-5,http://223.78.65.165:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&a
 CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.181:6046
 CCTV-5,http://171.8.169.42:8800/rtp/239.16.20.53:10530
 CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
-CCTV-5,http://112.192.73.95:8484/rtp/239.0.0.14:5140
-CCTV-5,http://114.226.212.135:8787/rtp/239.49.1.5:6000
-CCTV-5,http://114.226.212.140:8787/rtp/239.49.1.5:6000
-CCTV-5,http://114.226.212.136:8787/rtp/239.49.1.5:6000
+CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.192:8000
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-6,http://121.19.134.22:808/tsfile/live/0006_1.m3u8
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-10,http://drive.mxmy.net:8888/udp/239.3.1.63:8116
-CCTV-11,http://121.19.134.253:808/tsfile/live/0011_1.m3u8
 CCTV-13,http://drive.mxmy.net:8888/udp/239.3.1.124:8128
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
 CCTV-15,http://drive.mxmy.net:8888/udp/239.3.1.153:8136
