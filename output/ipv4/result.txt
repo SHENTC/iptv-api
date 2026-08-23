@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-23 18:14:03,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
+2026-08-24 06:11:53,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 
 央视频道，#genre#,#genre#
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
@@ -7,7 +7,6 @@ CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-10,http://drive.mxmy.net:8888/udp/239.3.1.63:8116
-CCTV-12,http://111.59.24.227:8181/tsfile/live/0012_1.m3u8
 CCTV-13,http://drive.mxmy.net:8888/udp/239.3.1.124:8128
 CCTV-15,http://drive.mxmy.net:8888/udp/239.3.1.153:8136
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
