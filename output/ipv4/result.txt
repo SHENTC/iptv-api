@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-23 08:15:58,http://219.159.147.195:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-10-23 22:32:54,http://219.159.147.195:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 央视频道，#genre#,#genre#
 CCTV-1,http://219.159.147.195:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -10,7 +10,7 @@ CCTV-5,http://219.159.147.195:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1
 CCTV-6,http://219.159.147.195:9901/tsfile/live/1008_1.m3u8?key=txiptv
 CCTV-7,http://219.159.147.195:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://219.159.147.195:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://219.159.147.195:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=454a0b5a2f4c67245e47d51b1c0aa680
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
